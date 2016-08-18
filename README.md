@@ -18,7 +18,8 @@ IMPORTANT NOTE: This scanner is working only for unique IP at the moment.
 ## Examples
 
 <a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/utils/ftp.py">Scan one IP with a specific port:</a>
-<img src="example_one_ip.jpg" width="400">
+
+<img src="example_one_ip.png" width="400">
 
 
 More examples will come soon.
