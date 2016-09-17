@@ -32,7 +32,7 @@ This tool does not need any additional library.
 1) Download this repository
 
 2) Launch the Python file that matches your needs:
-   - If you need to check only one FTP server: <a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/utils/ftp.py">ftp.py</a>
+   - If you need to check only one FTP server: Launch "python <a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/utils/ftp.py">ftp.py</a>" command
    - If you need to check a wide IP range: No implemented yet
 
 
