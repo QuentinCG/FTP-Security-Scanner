@@ -49,13 +49,6 @@ For every scanned IP:
    * Check Unix permissions on root folders and files (000 to 777)
 
 
-##TODO list
-
-  - [CRITICAL] Implement the wide IP range scanner (with threads)
-  - [CRITICAL] Add possibility to store all data found in wide IP range scan
-  - [ENHANCEMENT] Better handle exceptions in <a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/utils/ftp.py">ftp.py</a> in order to be more robust when commincating with bad FTP servers.
-
-
 ## License
 
 This project is under MIT license. This means you can use it as you want (just don't delete the library header).
