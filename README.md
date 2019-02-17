@@ -5,12 +5,7 @@
 This python tool library is designed to check if a FTP(S) server is secured or not
 and the kind of information and rights you have with or without credentials.
 
-It can also check the FTP(S) server security of a wide IP range (even the full IPv4 network).
-
 It is multi-platform and compatible with python 2.7+ and 3+.
-
-IMPORTANT NOTE: This scanner is working only for unique IP at the moment.
-
 
 <img src="ftp.png" width="200">
 
@@ -22,18 +17,13 @@ IMPORTANT NOTE: This scanner is working only for unique IP at the moment.
 <img src="example_one_ip.png" width="400">
 
 
-More examples will come soon.
-
-
 ## How to install
 
-This tool does not need any additional library.
+This tool only needs python (without extra library).
 
 1) Download this repository
 
-2) Launch the Python file that matches your needs:
-   - If you need to check only one FTP server: Launch "python <a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/utils/ftp.py">ftp.py</a>" command
-   - If you need to check a wide IP range: No implemented yet
+2) Launch the Python file like this to check your FTP server and follow instructions: python <a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/utils/ftp.py">python ftp.py</a>" command
 
 
 ## What is check with this tool?
