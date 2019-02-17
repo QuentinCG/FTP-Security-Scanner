@@ -23,7 +23,7 @@ This tool only needs python (without extra library).
 
 1) Download this repository
 
-2) Launch the Python file like this to check your FTP server and follow instructions: python <a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/utils/ftp.py">python ftp.py</a>" command
+2) Launch the Python file like this to check your FTP server and follow instructions: `python ftp.py` command
 
 
 ## What is check with this tool?
