@@ -15,7 +15,6 @@ __python_version__ = "2.7+ and 3.+"
 __version__ = "1.0 (2016/08/12)"
 __status__ = "Usable for all projects"
 
-import os
 import platform
 import socket
 import struct
@@ -163,7 +162,7 @@ def ping(host, timeout = 2):
 
   try:
     proc = subprocess.Popen(shlex.split(ping_cmd), stdout=subprocess.PIPE)
-    stdout, stderr = proc.communicate()
+    proc.communicate()
     is_up = (proc.returncode == 0)
   except Exception as e:
     logging.error("Unexpected error: "+str(e))

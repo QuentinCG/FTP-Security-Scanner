@@ -27,14 +27,14 @@ This tool only needs python (without extra library).
 ## What is checked with this tool
 
 For every scanned IP:
-- Is FTP port open?
-- Is it possible to log in the FTP server as anonymous user (or with specific login and password)?
-- If connected:
-  * Grab the welcome banner (can contain information of deprecated FTP(s) servers)
-- If logged in:
-  * Grab full or partial list of accessible files and folders in the server
-  * Check write/read rights on file/folder
-  * Check Unix permissions on root folders and files (000 to 777)
+ - Is FTP port open?
+ - Is it possible to log in the FTP server as anonymous user (or with specific login and password)?
+ - If connected:
+   - Grab the welcome banner (can contain information of deprecated FTP(s) servers)
+ - If logged in:
+   - Grab full or partial list of accessible files and folders in the server
+   - Check write/read rights on file/folder
+   - Check Unix permissions on root folders and files (000 to 777)
 
 ## License
 

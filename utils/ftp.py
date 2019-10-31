@@ -111,7 +111,7 @@ class ftpSecurityTest:
     # Check if the FTP server is active
     try:
       self.ftp_instance.connect(ip, port, timeout)
-    except Exception as e:
+    except Exception:
       # FTP server not responding
       return False
 
