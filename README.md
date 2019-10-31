@@ -1,5 +1,5 @@
 # FTP scanner
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/LICENSE.md) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/QuentinCG)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7acffb32a96d434999a988150658f96b)](https://www.codacy.com/manual/QuentinCG/FTP-Security-Scanner?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/FTP-Security-Scanner&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/FTP-Security-Scanner/blob/master/LICENSE.md) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/QuentinCG)
 
 ## What is it
 
