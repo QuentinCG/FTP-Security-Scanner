@@ -16,6 +16,8 @@ It is multi-platform and compatible with python 2.7+ and 3+.
 
 <img src="example_one_ip.png" width="400">
 
+<a target="_blank" href="https://github.com/QuentinCG/FTP-Security-Scanner/issues/1">Scan an IP range (not perfect, feel free to improve it and share it)</a>
+
 ## How to install
 
 This tool only needs python (without extra library).
